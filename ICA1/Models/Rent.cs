@@ -33,7 +33,7 @@ namespace assesment1.Models
 
         public string rent1 { get; set; }
 
-        int num = 5;
+        
 
 
 
